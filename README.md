@@ -3,7 +3,7 @@
 This repository contains two scripts:
 
 1. **Ducky Script**: Automates the execution of a PowerShell script via simulated keystrokes.
-2. **PowerShell Script**: Extracts saved Wi-Fi passwords and screenshots, then uploads them to a remote server.
+2. **Fud Powershell Spyware**: Extracts saved Wi-Fi passwords and screenshots, then uploads them to a remote server.
 
 ## Contents
 
